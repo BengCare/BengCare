@@ -28,10 +28,13 @@ Here is the updated table with the email column added:
 |  Cloud Computing   | [Github](https://github.com/BengCare/BengCare-Backend)  |
 
 # Future Development
-- Add features for ranking algorithm model like traveloka's revenue from hotel to increase income
-- Add transaction feature 
-- Add payment methods
-- Create Function and routes for Hotel Transaction
+- Expense estimation before booking
+- Estimated service booking
+- Partner workshop app completion
+- Tabular data for analyzing workshop income and revenue in the workshop app
+- UI/UX for booking date appearance on the workshop dashboard
+- Chat app between users and workshop administrators
+- Google authentication
 
 # License
 Distributed under the MIT License. See `LICENSE.md` in `License-repo` for more information.
