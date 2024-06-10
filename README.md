@@ -1,3 +1,5 @@
+![Untitled](https://github.com/BengCare/BengCare/assets/169074042/4477b689-ae81-4cba-a549-4d262854ae73)
+
 # Bangkit Entrepreneur Track Capstone Project 2024 Batch #1
 The documentation of BengCare App for Bangkit Entrepreneur Track Capstone Project 2024 Batch #1
 
@@ -16,7 +18,7 @@ Here is the updated table with the email column added:
 |   Riski Ilyas               | A004D4KY4295 | Mobile Development | Android Mobile Developer        | [LinkedIn](https://www.linkedin.com/in/riski-ilyas/) or [Github](https://github.com/riskiilyas)                            | [riski@bengcare.com](mailto:riski@bengcare.com)                                       |
 |   Gabrielle Immanuel Osvaldo Kurniawan | A004D4KY4177 | Mobile Development | Android Mobile Developer        | [LinkedIn](https://www.linkedin.com/in/osvaldokurniawan/) or [Github](https://github.com/Osvaldo-Kurniawan)                | [osvaldo@bengcare.com](mailto:osvaldo@bengcare.com)                                   |
 |   M Naufal Badruttamam      | C004D4KY0481 |   Cloud Computing  | Backend Engineer                           | [LinkedIn](https://www.linkedin.com/in/mnaufalbadruttamam/) or [Github](https://github.com/Caknoooo)                       | [cakno@bengcare.com](mailto:cakno@bengcare.com)                                      |
-|   Muhammad Farrel Reginaldo Ahnaf | C006D4KY0788 |   Cloud Computing  | Backend Engineer, UI/UX Designer                           | [LinkedIn](https://www.linkedin.com/in/farrel-reginaldo/) or [Github](https://github.com)                   | [reginaldo@bengcare.com](mailto:reginaldo@bengcare.com)                                      |
+|   Muhammad Farrel Reginaldo Ahnaf | C006D4KY0788 |   Cloud Computing  | Backend Engineer, UI/UX Designer                           | [LinkedIn](https://www.linkedin.com/in/farrel-reginaldo/) or [Github](https://github.com/reginaldooo)                   | [reginaldo@bengcare.com](mailto:reginaldo@bengcare.com)                                      |
 
 # Repositories
 
